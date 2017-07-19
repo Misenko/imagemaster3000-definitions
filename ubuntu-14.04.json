@@ -13,18 +13,5 @@
     }
   },
   "distribution":"Ubuntu",
-  "version":"14.04",
-  "actions":{
-    "copy":[
-      {
-        "source":"ubuntu-cloud.cfg",
-        "target":"/etc/cloud/",
-        "name":"cloud.cfg"
-      },
-      {
-        "source":"ttyS0.conf",
-        "target":"/etc/init/"
-      }
-    ]
-  }
+  "version":"14.04"
 }
