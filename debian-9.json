@@ -1,5 +1,5 @@
 {
-  "name":"METACLOUD-Debian-9-x86_64@metacloud-dukan",
+  "name":"METACLOUD-Debian-9-x86_64",
   "url":"https://cdimage.debian.org/cdimage/openstack/9.0.4-20170709/debian-9.0.4-20170709-openstack-amd64.qcow2",
   "verification":{
       "signature":{
