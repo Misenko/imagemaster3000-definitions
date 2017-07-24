@@ -1,11 +1,11 @@
 {
   "name":"METACLOUD-Debian-8-x86_64",
-  "url":"https://cdimage.debian.org/cdimage/openstack/8.8.4-20170709/debian-8.8.4-20170709-openstack-amd64.qcow2",
+  "url":"https://cdimage.debian.org/cdimage/openstack/8.9.0-20170723/debian-8.9.0-openstack-amd64.qcow2",
   "verification":{
       "signature":{
         "detached":{
-          "signature": "https://cdimage.debian.org/cdimage/openstack/8.8.4-20170709/SHA256SUMS.sign",
-          "data": "https://cdimage.debian.org/cdimage/openstack/8.8.4-20170709/SHA256SUMS"
+          "signature": "https://cdimage.debian.org/cdimage/openstack/8.9.0-20170723/SHA256SUMS.sign",
+          "data": "https://cdimage.debian.org/cdimage/openstack/8.9.0-20170723/SHA256SUMS"
         }
       },
       "hash":{
