@@ -1,5 +1,5 @@
 {
-  "name":"CentOS-7-x86_64",
+  "name":"METACLOUD-CentOS-7-x86_64-Winterfell",
   "url":"http://cloud.centos.org/centos/7/images/CentOS-7-x86_64-GenericCloud.qcow2",
   "verification":{
     "signature":{
