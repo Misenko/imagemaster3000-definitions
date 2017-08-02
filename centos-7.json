@@ -1,6 +1,6 @@
 {
-  "name":"METACLOUD-CentOS-7-x86_64",
-  "url":"http://cloud.centos.org/centos/7/images/CentOS-7-x86_64-GenericCloud-1706.qcow2",
+  "name":"CentOS-7-x86_64",
+  "url":"http://cloud.centos.org/centos/7/images/CentOS-7-x86_64-GenericCloud.qcow2",
   "verification":{
     "signature":{
       "clearsign":{
@@ -12,7 +12,7 @@
     }
   },
   "distribution":"CentOS",
-  "version":"7.3-1706",
+  "version":"7",
   "actions":{
     "copy":[
       {
