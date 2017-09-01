@@ -29,5 +29,7 @@
         "target":"/etc/systemd/system/getty.target.wants/"
       }
     ]
-  }
+  },
+  "cpu":"5GB",
+  "ram":"512MB"  
 }
