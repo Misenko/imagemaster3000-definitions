@@ -12,6 +12,7 @@
         "function":"SHA256"
       }
   },
+  "ram":512,
   "distribution":"Debian",
   "version":"9",
   "actions":{
@@ -29,5 +30,6 @@
         "target":"/etc/systemd/system/getty.target.wants/"
       }
     ]
-  }
+  },
+  "ram":512
 }

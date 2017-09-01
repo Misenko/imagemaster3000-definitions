@@ -12,6 +12,7 @@
       "function":"SHA256"
     }
   },
+  "ram":512,
   "distribution":"Ubuntu",
   "version":"14.04",
   "actions":{
@@ -26,5 +27,6 @@
         "target":"/etc/init/"
       }
     ]
-  }
+  },
+  "ram":512
 }

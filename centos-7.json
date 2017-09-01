@@ -11,6 +11,7 @@
       "function":"SHA256"
     }
   },
+  "ram":512,
   "distribution":"CentOS",
   "version":"7",
   "actions":{

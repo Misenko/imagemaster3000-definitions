@@ -12,6 +12,7 @@
         "function":"SHA256"
       }
   },
+  "ram":512,
   "distribution":"Debian",
   "version":"8",
   "actions":{
