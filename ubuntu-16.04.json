@@ -13,5 +13,6 @@
     }
   },
   "distribution":"Ubuntu",
-  "version":"16.04"
+  "version":"16.04",
+  "ram":512
 }
