@@ -30,6 +30,5 @@
         "target":"/etc/systemd/system/getty.target.wants/"
       }
     ]
-  },
-  "ram":512
+  }
 }
