@@ -12,7 +12,7 @@
       "function":"SHA256"
     }
   },
+  "ram":512,
   "distribution":"Ubuntu",
-  "version":"16.04",
-  "ram":512
+  "version":"16.04"
 }
