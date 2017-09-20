@@ -1,5 +1,5 @@
 {
-  "name":"Debian-8-x86_64",
+  "name":"METACLOUD-Debian-8-x86_64-KingsLanding",
   "url":"https://cdimage.debian.org/cdimage/openstack/current-8/debian-8-openstack-amd64.qcow2",
   "verification":{
       "signature":{
