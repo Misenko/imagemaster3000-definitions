@@ -1,5 +1,5 @@
 {
-  "name":"Debian-9-x86_64",
+  "name":"METACLOUD-Debian-9-x86_64-Braavos",
   "url":"https://cdimage.debian.org/cdimage/openstack/current-9/debian-9-openstack-amd64.qcow2",
   "verification":{
       "signature":{
