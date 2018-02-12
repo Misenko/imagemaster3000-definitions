@@ -24,6 +24,10 @@
       {
         "source":"serial-getty@ttyS0.service",
         "target":"/etc/systemd/system/getty.target.wants/"
+      },
+      {
+        "source":"ifcfg-eth1",
+        "target":"/etc/sysconfig/network-scripts/"
       }
     ]
   }
