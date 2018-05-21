@@ -24,7 +24,15 @@
       },
       {
         "source":"serial-getty@ttyS0.service",
-        "target":"/etc/systemd/system/getty.target.wants/"
+        "target":"/etc/systemd/system/",
+        "name":"serial-getty@.service"
+      }
+    ],
+    "link":[
+      {
+        "target":"/etc/systemd/system/serial-getty@.service",
+        "link":"/etc/systemd/system/getty.target.wants/serial-getty@ttyS0.service",
+        "symbolic":true
       }
     ]
   }
